@@ -1,0 +1,8 @@
+# Tanvir_Iptv_Tm
+#EXTINF:-1 tvg-id="no tvg-id" tvg-name="KBangla TV" tvg-logo="http://livetv.com.bd/wp-content/uploads/2020/02/home.png"" group-title="Bangla Iptv",KBangla TV
+https://rafal-iptv.vercel.app/stream/kbangla/index.m3u8
+#EXTM3U
+#EXTINF:-1, قناة MBC 1
+https://rafal-iptv.vercel.app/mbc1.m3u8
+#EXTINF:-1, قناة BEIN SPORT
+https://rafal-iptv.vercel.app/bein.m3u8
