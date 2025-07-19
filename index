@@ -1,1 +1,71 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <title>منتجات PROTECH IPTV</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f9f9f9;
+      padding: 20px;
+      text-align: center;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 20px;
+      margin-top: 30px;
+    }
+    .product {
+      background: white;
+      border-radius: 12px;
+      padding: 15px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      transition: transform 0.3s ease;
+    }
+    .product:hover {
+      transform: scale(1.05);
+    }
+    .product img {
+      width: 100%;
+      height: auto;
+      border-radius: 8px;
+    }
+    .product h3 {
+      margin-top: 10px;
+      font-size: 16px;
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+  <h1>منتجات PROTECH IPTV</h1>
+  <div class="grid">
+    <div class="product">
+      <img src="https://www.mediafire.com/convkey/dpkol9xj5xptqsbga.jpg" alt="اشتراك 12 شهر">
+      <h3>اشتراك 12 شهر</h3>
+    </div>
+    <div class="product">
+      <img src="https://www.mediafire.com/convkey/j7x74e0vudr3ka9ga.jpg" alt="تجربة 24 ساعة">
+      <h3>تجربة 24 ساعة</h3>
+    </div>
+    <div class="product">
+      <img src="https://www.mediafire.com/convkey/ldtl7hs9ybxlzm6ga.jpg" alt="اشتراك 6 شهور">
+      <h3>اشتراك 6 شهور</h3>
+    </div>
+    <div class="product">
+      <img src="https://www.mediafire.com/convkey/vp5k0agxhpk6gv8ga.jpg" alt="اشتراك 3 شهور">
+      <h3>اشتراك 3 شهور</h3>
+    </div>
+    <div class="product">
+      <img src="https://www.mediafire.com/convkey/miusowal3kmi61qga.jpg" alt="اشتراك شهر">
+      <h3>اشتراك شهر</h3>
+    </div>
+    <div class="product">
+      <img src="https://www.mediafire.com/convkey/0ksg0d5slrysmgega.jpg" alt="تجديد 12 شهر">
+      <h3>تجديد 12 شهر</h3>
+    </div>
+  </div>
+</body>
+</html>
 
